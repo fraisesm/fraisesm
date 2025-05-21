@@ -1,6 +1,6 @@
-# Hello, I'm Mila! 👋  
+# Hello, I'm Mila! 
 
-I'm a Computer Science student at Rostov State University of Economics (RSUE), passionate about programming and technology.  
+I'm a Computer Science student at Rostov State University of Economics (RSUE) 
 
 ### 💻 Tech Stack:  
 - Programming Languages: (Python/C++/Java)  
