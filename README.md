@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Mila! 👋  
 
-<!--
-**fraisesm/fraisesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Rostov State University of Economics (RSUE), passionate about programming and technology.  
 
-Here are some ideas to get you started:
+### 💻 Tech Stack:  
+- Programming Languages: (Python/C++/Java)  
+- Web Development: (HTML/CSS/React)  
+- Tools: (Git, VS Code)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring:  
+- Software development best practices  
+- Algorithms & system design  
+- Open-source contributions  
+
